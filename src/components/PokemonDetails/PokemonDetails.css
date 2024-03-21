@@ -1,0 +1,14 @@
+.table-content {
+  border: 1px solid #aaa;
+}
+.table-content tr,
+.table-content thead {
+  border-bottom: 1px solid #ccc;
+}
+ol.section-content {
+  list-style-type: disclosure-closed;
+}
+.pokemon-avatar {
+  border-radius: 50%;
+  border: 25px solid #fff;
+}
